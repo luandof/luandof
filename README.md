@@ -1,10 +1,8 @@
 ## Olá, me chamo Luan de Oliveira!
 
--Cursando curso técnico de Análise e Desinvolvimento de Sistemas pela Etec.
-
--Aprendendo Java, HTML, CSS e MYSQL. (Principal foco em Java).
-
--Buscando aprendizado e melhorias na área.
+🎓 Estudante de Engenharia da Computação
+💻 Profissional de Suporte Técnico de TI
+🚀 Interessado em desenvolvimento de software e aplicações web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luandof&show_icons=true&theme=transparent) 
 
